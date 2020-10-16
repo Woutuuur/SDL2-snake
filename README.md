@@ -2,7 +2,7 @@
 Simple snake game written in C++ using SDL2.
 
 To compile:
-`g++ snake.cpp -lSDL2 -lSDL2-ttf -o snake`
+`g++ snake.cpp -lSDL2 -lSDL2_ttf -o snake`
 
 To run:
 `./snake`
