@@ -5,7 +5,7 @@ To compile:
 `g++ snake.cpp -lSDL2 -lSDL2-ttf -o snake`
 
 To run:
-`./snake'
+`./snake`
 
 Requires [SDL2](https://www.libsdl.org/) and [SDL2_TTF](https://www.libsdl.org/projects/SDL_ttf/).
 
