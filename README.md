@@ -1,6 +1,8 @@
 # SDL2 Snake
 Simple snake game written in C++ using SDL2.
 
+![](example.gif)
+
 To compile:
 `g++ snake.cpp -lSDL2 -lSDL2_ttf -o snake`
 
